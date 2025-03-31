@@ -1,0 +1,21 @@
+# Data files
+data/coco_subset/*
+data/target_images/*
+data/reference_images/*
+pixie/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json

@@ -1,0 +1,10 @@
+torch
+torchvision
+diffusers
+transformers
+lpips
+scikit-image
+numpy
+matplotlib
+pycocotools
+tqdm
